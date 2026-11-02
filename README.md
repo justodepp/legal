@@ -17,3 +17,4 @@ Per aggiungere un'app: copia la cartella `spalma/`, cambia i testi e aggiungi la
 ## App
 
 - **Spalma** — budget e spese per competenza: [informativa sulla privacy](https://justodepp.github.io/legal/spalma/privacy/)
+- **Untold** — un momento al giorno per te: [informativa sulla privacy](https://justodepp.github.io/legal/untold/privacy/)
